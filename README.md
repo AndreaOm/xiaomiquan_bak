@@ -33,15 +33,12 @@ avatar_url
 ## Usage
 
 ### step 1 `网页端登录后获取cookies`
-
-![step 1](https://ws2.sinaimg.cn/large/a15b4afegy1fiw5vsqcocj211g09cmye.jpg)
+![step 1](img/setp1.png)
 
 ### step 2 `修改 xiaomiquan_bak.py`
-
-![step 2](https://ws2.sinaimg.cn/large/a15b4afegy1fiw5xfydk9j20gj029749.jpg)
+![step 2](img/setp2.png)
 
 ### step 3 `设置需要备份的圈子ID`
-
-![step 3](https://ws2.sinaimg.cn/large/a15b4afegy1fiw5y83q35j20a0028a9w.jpg)
+![step 3](img/setp3.png)
 
 ### step 4 `python xiaomiquan_bak.py`
