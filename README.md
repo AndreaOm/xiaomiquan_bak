@@ -4,25 +4,6 @@
 
 ---
 
-目前备份了 	20170824
-1. `代码审计-2212251881`
-2. `qz安全情报分析-1852214142`
-3. `安全数据与机器学习-5421844144`
-
----
-
-后面不再push备份的json
-如有需要修改 xiaomiquan_bak.py 中的 config 备份自己想要的圈子
-
-```
-token
-name
-user_id
-avatar_url
-```
-
---- 
-
 ## Requirement
 
 * `python 2.7`
